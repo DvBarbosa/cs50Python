@@ -1,0 +1,14 @@
+sort1 uses: Bubble Sort
+8.274s #Unsorted
+0.761 (bubbleSort) #Sorted
+How do you know?: Excute Fastest on a sorted List
+
+sort2 uses: Merge Sort
+0.918s (Merge Sort) #unsorted
+0.973s (Sorted)
+How do you know?: Excute Fastest on a random/unsorted List
+
+sort3 uses: Selection Sort
+3.742s #Unsorted
+3.154s #Sorted (Selection Sort)
+How do you know?: Was the only one rest, so it should be this
